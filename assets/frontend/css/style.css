@@ -2621,7 +2621,9 @@ hr {
 }
 @media (max-width: 767px) {
   .we-trusted-area .trusted-img img {
-    margin-bottom: 30px;
+    width: 350px;
+    height: 400px;
+    float: left;
   }
 }
 .we-trusted-area .trusted-caption {
